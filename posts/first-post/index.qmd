@@ -1,0 +1,10 @@
+---
+title: "My First Blog Post"
+author: "Samridhi Singh"
+date: "2026-02-03"
+categories: [thoughts, meta]
+---
+
+## Why I'm Starting This Blog
+
+This is my little corner to think out loud. Here, I’ll jot down ideas as they come, questions that keep me up at night, and observations about research, life, and everything in between. It’s messy, unfinished, and personal—just a place where my curiosity gets to roam freely. Drink Coffee. Wrok. Repeat.
